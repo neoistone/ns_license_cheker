@@ -1,14 +1,14 @@
-
 {
     "name": "neoistone/neoistone-license",
     "description": "",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Neoistone Hosting",
             "email": "dev@neoistone.com"
         }
     ],
-    "require": {
-        "php": "^7.*"
-    }
+    "minimum-stability": "stable",
+    "require": {}
 }
