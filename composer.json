@@ -1,11 +1,11 @@
 
 {
-    "name": "neoistone/neoistone-license,
+    "name": "neoistone/neoistone-license",
     "description": " Neoistone users Application validator Php",
     "authors": [
         {
             "name": "Neoistone Hosting",
             "email": "dev@neoistone.com"
         }
-    ],
+    ]
 }
