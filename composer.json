@@ -9,8 +9,4 @@
         }
     ],
     "license": "MIT",
-    "require": {
-        "guzzlehttp/guzzle": "~6.3",
-        "neoistone/mysql_db": "@dev"
-    }
 }
