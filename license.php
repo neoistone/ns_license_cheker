@@ -1,7 +1,7 @@
 <?php //ICB0 56:0 71:1642                                                     ?><?php //00ee8
 // *************************************************************************
 // *                                                                       *
-// * Neoistone Connection Database fast and secure                         *
+// * Neoistone License Check                                               *
 // * Copyright (c) WHMCS Ltd. All Rights Reserved,                         *
 // * Build Date: 25 Mar 2020                                               *
 // *                                                                       *
