@@ -2,7 +2,7 @@
 // *************************************************************************
 // *                                                                       *
 // * Neoistone License Check                                               *
-// * Copyright (c) WHMCS Ltd. All Rights Reserved,                         *
+// * Copyright (c) Neoistone. All Rights Reserved,                         *
 // * Build Date: 25 Mar 2020                                               *
 // *                                                                       *
 // *************************************************************************
